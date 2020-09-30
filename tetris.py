@@ -10,7 +10,8 @@ play_width = 300
 play_height = 600  
 block_size = 30
  
-top_left_x = (s_width - play_width) // 2
+ wdif=(s_width - play_width)
+top_left_x = wdif // 2
 top_left_y = s_height - play_height
  
  
